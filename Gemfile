@@ -194,7 +194,7 @@ end
 #
 
 # Base framework classes required by other plugins
-gem 'dradis-plugins', '~> 3.5'
+gem 'dradis-plugins', path: '../dradis-plugins/'
 
 
 gem 'dradis-api', path: 'engines/dradis-api'
