@@ -45,7 +45,7 @@ Dir.chdir APP_ROOT do
     system! "git clone 'https://github.com/dradis/dradis-zap'"
 
     # Other
-    system! "git clone 'https://github.com/dradis/dradis-plugins'"
+    system! "git clone 'https://github.com/lfuelling/dradis-plugins'"
     system! "git clone 'https://github.com/dradis/dradis-projects'"
   end
 
