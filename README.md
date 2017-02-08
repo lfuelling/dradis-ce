@@ -13,6 +13,7 @@ Dradis is an open-source collaboration framework, tailored to InfoSec teams.
 * Easy to use, easy to be adopted. Otherwise it would present little benefit over other systems.
 * Flexible: with a powerful and simple extensions interface.
 * Small and portable. You should be able to use it while on site (no outside connectivity). It should be OS independent (no two testers use the same OS).
+* Buildable `master` branch. (The `master` branch should always be buildable by a script)
 
 
 ## Some of the features:
